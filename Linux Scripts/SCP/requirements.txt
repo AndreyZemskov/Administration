@@ -1,4 +1,4 @@
 scp
 paramiko
 pyyaml
-cryptography==2.4.2
+cryptography==3.3.2
